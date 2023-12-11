@@ -1,6 +1,6 @@
 {
-  "name": "your-script",
-  "description": "A brief description for your script.",
+  "name": "bahamut-animad-collection-organizer-script",
+  "description": "An organizer script to let you easily manage your favorites on Animad.",
   "license": "MIT",
   "version": "0.0.1",
   "private": true,
@@ -9,13 +9,13 @@
   },
   "homepage": "https://github.com/moontai0724/",
   "bugs": {
-    "url": "https://github.com/moontai0724/userscript-template"
+    "url": "https://github.com/moontai0724/bahamut-animad-collection-organizer-script"
   },
   "user-script-meta": {
-    "name": "Your Script Name",
-    "namespace": "https://example.com/",
+    "name": "Bahamut Animad Collection Organizer",
+    "namespace": "https://github.com/moontai0724",
     "match": [
-      "*://*/*"
+      "https://ani.gamer.com.tw/*"
     ]
   },
   "scripts": {
